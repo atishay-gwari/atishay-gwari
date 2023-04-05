@@ -1,5 +1,4 @@
 -  Hi, I am Atishay Gwari.
--  I love making a fool out of myself.
 -  I'm currently learning neural networks and nlp!
 -  Actively looking to collaborate on data analysis/visualization and data science projects.
 - Reach me through : [Email](mailto:atishay345@gmail.com) [LinkedIn](https://www.linkedin.com/in/atishayg/) [Instagram](https://www.instagram.com/atishay.gwari/)
