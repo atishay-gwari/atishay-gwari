@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops, MLops and NLP**
 
-- 💬 Ask me about **django, machine learning and deep learning.**
+- 💬 Ask me about **Django, Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **atishay345@gmail.com**
 
