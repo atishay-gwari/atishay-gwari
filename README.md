@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Gwari</h1>
 <h3 align="center">A passionate junior data scientist and fullstack developer from India</h3>
 
-- 🔭 Currently working on [NoCodeMl](https://github.com/atishay-gwari/NoCodeMl)
+- 🔭 Currently working on [NoCodeMl](https://github.com/atishay-gwari/CMS)
 
 - 🌱 I’m currently learning **Devops, MLops and NLP**
 
